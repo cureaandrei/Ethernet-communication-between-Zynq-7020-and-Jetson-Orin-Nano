@@ -1,0 +1,3 @@
+C:/Users/Andrei/OneDrive/Desktop/SSC/SSC_project/project_workspace/project_platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Users/Andrei/OneDrive/Desktop/SSC/SSC_project/project_workspace/project_platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/OneDrive/Desktop/SSC/SSC_project/project_workspace/project_platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
